@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Oriental Bamboo Shirt",
+    "price": "828.49",
+    "category": "Garden"
+  },
+  {
+    "name": "Gorgeous Granite Chair",
+    "price": "785.89",
+    "category": "Books"
+  },
+  {
+    "name": "Soft Concrete Soap",
+    "price": "626.25",
+    "category": "Movies"
+  },
+  {
+    "name": "Recycled Concrete Towels",
+    "price": "513.34",
+    "category": "Games"
+  },
+  {
+    "name": "Intelligent Concrete Towels",
+    "price": "55.99",
+    "category": "Clothing"
+  },
+  {
+    "name": "Incredible Bamboo Bacon",
+    "price": "217.99",
+    "category": "Computers"
+  },
+  {
+    "name": "Handcrafted Rubber Computer",
+    "price": "240.35",
+    "category": "Movies"
+  }
+]
